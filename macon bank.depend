@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718099658 source:c:\users\glodis ilunga\desktop\macon bank\macon bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
